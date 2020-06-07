@@ -3,11 +3,17 @@ Code for paper "Scalable Differential Privacy with Certified Robustness in Adver
 
 # Requirements:
 Python 3.x (tested with 3.5.2)
+
 Tensorflow (1.x, tested on 1.15.0), numpy, scipy, imageio
+
 An early (compatible) version of Cleverhans library is included
+
 GPU with at least 11GB of memory, better to have at least 4 GPUs
+
 Script should download the CIFAR10 automatically, if the dataset is not there
+
 Raw TinyImageNet dataset https://tiny-imagenet.herokuapp.com/
+
 Pretrained weight of resnet-18 ("resnet18_imagenet_1000_no_top.h5") from: https://github.com/qubvel/classification_models/releases/download/0.0.1/resnet18_imagenet_1000_no_top.h5
 
 # How it works:
