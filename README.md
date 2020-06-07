@@ -38,18 +38,24 @@ About the "parameter_settings.txt": This described the core parameters we used i
 # Cites:
 
 @inproceedings{DBLP:journals/corr/abs-1903-09822,
+
   author    = {NhatHai Phan and
                My T. Thai and
                Han Hu and
                Ruoming Jin and Tong Sun and
                Dejing Dou},
+               
   title     = {Scalable Differential Privacy with Certified Robustness in Adversarial Learning},
   journal   = {CoRR},
+  
   volume    = {abs/1903.09822},
+  
   year      = {2020 (to appear at ICML'20)}
+  
 }
 
 @inproceedings{DBLP:conf/ijcai/PhanVLJDWT19,
+
   author    = {NhatHai Phan and
                Minh N. Vu and
                Yang Liu and
@@ -57,18 +63,29 @@ About the "parameter_settings.txt": This described the core parameters we used i
                Dejing Dou and
                Xintao Wu and
                My T. Thai},
+               
   editor    = {Sarit Kraus},
+  
   title     = {Heterogeneous Gaussian Mechanism: Preserving Differential Privacy
                in Deep Learning with Provable Robustness},
+               
   booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
                Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
                2019},
+               
   pages     = {4753--4759},
+  
   publisher = {ijcai.org},
+  
   year      = {2019},
+  
   url       = {https://doi.org/10.24963/ijcai.2019/660},
+  
   doi       = {10.24963/ijcai.2019/660},
+  
   timestamp = {Tue, 20 Aug 2019 16:18:18 +0200},
+  
   biburl    = {https://dblp.org/rec/conf/ijcai/PhanVLJDWT19.bib},
+  
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
