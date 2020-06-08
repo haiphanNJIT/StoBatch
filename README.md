@@ -43,7 +43,8 @@ About the "parameter_settings.txt": This described the core parameters we used i
                My T. Thai and
                Han Hu and
                Ruoming Jin and Tong Sun and
-               Dejing Dou},\\
+               Dejing Dou},
+               
   title     = {Scalable Differential Privacy with Certified Robustness in Adversarial Learning},
   journal   = {CoRR},
   
