@@ -37,40 +37,6 @@ About the "parameter_settings.txt": This described the core parameters we used i
 
 # Cites:
 
-@inproceedings{DBLP:journals/corr/abs-1903-09822,
+[1] Scalable Differential Privacy with Certified Robustness in Adversarial Learning. NhatHai Phan, My T. Thai, Han Hu, Ruoming Jin, Tong Sun, and Dejing Dou. The 37th International Conference on Machine Learning (ICML'20), July 12 - 18, 2020. https://128.84.21.199/pdf/1903.09822.pdf
 
-  author    = {NhatHai Phan and
-               My T. Thai and
-               Han Hu and
-               Ruoming Jin and Tong Sun and
-               Dejing Dou},
-               
-  title     = {Scalable Differential Privacy with Certified Robustness in Adversarial Learning},
-  journal   = {CoRR},
-  
-  volume    = {abs/1903.09822},
-  
-  year      = {2020 (to appear at ICML'20)}
-  
-}
-
-@inproceedings{DBLP:conf/ijcai/PhanVLJDWT19,
-
-  author    = {NhatHai Phan and
-               Minh N. Vu and
-               Yang Liu and
-               Ruoming Jin and
-               Dejing Dou and
-               Xintao Wu and
-               My T. Thai},
-  
-  title     = {Heterogeneous Gaussian Mechanism: Preserving Differential Privacy
-               in Deep Learning with Provable Robustness},
-  booktitle = {Proceedings of the Twenty-Eighth International Joint Conference on
-               Artificial Intelligence, {IJCAI} 2019, Macao, China, August 10-16,
-               2019},
-  pages     = {4753--4759},
-  publisher = {ijcai.org},
-  year      = {2019},
-  url       = {https://doi.org/10.24963/ijcai.2019/660}
-}
+[2] Heterogeneous Gaussian Mechanism: Preserving Differential Privacy in Deep Learning with Provable Robustness. NhatHai Phan, Minh Vu, Yang Liu, Ruoming Jin, Xintao Wu, Dejing Dou, and My T. Thai. The 28th International Joint Conference on Artificial Intelligence (IJCAI'19), August 10-16, 2019, Macao, China. https://arxiv.org/pdf/1906.01444.pdf
